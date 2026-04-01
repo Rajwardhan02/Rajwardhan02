@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="waving hand" />
 
-# ⚡ RAJWARDHAN02 // SUPER CRAZY DEV MODE ⚡
+# ⚡ RAJWARDHAN02 ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=980&lines=FULL+STACK+DEVELOPER+%F0%9F%94%A5;I+BUILD+COOL+THINGS+THAT+GO+BOOM+%F0%9F%9A%80;CODE+%2B+COFFEE+%2B+CHAOS+%3D+MAGIC+%E2%9A%A1;WELCOME+TO+MY+GITHUB+UNIVERSE+%F0%9F%8C%8C" alt="typing animation" />
 
